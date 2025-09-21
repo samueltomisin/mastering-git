@@ -1,1 +1,1 @@
-console.log('Hello World, welcome to Git')
+console.log('Hello World, welcome to Git!')
