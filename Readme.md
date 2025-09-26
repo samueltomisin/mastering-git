@@ -1,5 +1,7 @@
 ## Hello and Welcome to Git!
 
+Hope you are good and great today!!
+
 -This is an edit by dev-samuel
 
 Thank you
